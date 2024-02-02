@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\layout_fragment_row.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\layout\\fragment_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\layout_fragment_table_title.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\layout\\fragment_table_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\drawable_title_cell_shape.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\drawable\\title_cell_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\layout_fragment_table_row.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\layout\\fragment_table_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-pngs-37:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\drawable_cell_shape.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\drawable\\cell_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

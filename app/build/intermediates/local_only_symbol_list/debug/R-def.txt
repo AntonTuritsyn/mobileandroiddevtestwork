@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color buyColor
+color purple_200
+color purple_500
+color purple_700
+color sellColor
+color teal_200
+color teal_700
+color white
+drawable cell_shape
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable title_cell_shape
+id deal_amount
+id deal_id
+id deal_price
+id deal_side
+id deals_list_recycler_view
+id fragment_container
+id table
+id title
+id title_row
+id tool_name
+id update_time
+layout activity_main
+layout fragment_table_row
+layout fragment_table_title
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MobileAndroidDevTestWork
+xml backup_rules
+xml data_extraction_rules

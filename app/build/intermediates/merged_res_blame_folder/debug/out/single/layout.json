@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-mergeDebugResources-41:\\layout\\fragment_table_title.xml",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\layout\\fragment_table_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-mergeDebugResources-41:\\layout\\fragment_table_row.xml",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\layout\\fragment_table_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-mergeDebugResources-41:\\layout\\fragment_row.xml",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\layout\\fragment_row.xml"
+    },
+    {
+        "merged": "com.ntpro.mobileandroiddevtestwork.app-mergeDebugResources-41:/layout/fragment_table_row.xml",
+        "source": "com.ntpro.mobileandroiddevtestwork.app-main-44:/layout/fragment_table_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-mergeDebugResources-41:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\turit\\.gradle\\daemon\\7.5\\com.ntpro.mobileandroiddevtestwork.app-main-44:\\layout\\activity_main.xml"
+    }
+]
